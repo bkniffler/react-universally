@@ -4,6 +4,7 @@
 	"description": "A starter kit giving you the minimum requirements for a production ready universal react application.",
 	"lang": "en",
 	"start_url": "./",
+  "theme_color": "#2196F3",
 	"icons": [
 		{
 			"src": "\/android-chrome-512x512.png",
